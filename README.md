@@ -13,3 +13,4 @@
 12. git checkout [название] - переключение между ветками
 13. git pull origin main - перемещение изменений с git hab
 13. Pull request - слияние веток через гитхаб, git merge слияние через консоль
+14. GitFlow
