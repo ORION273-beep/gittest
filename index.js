@@ -1,1 +1,2 @@
-console.log('Hello wold');
+console.log('Hello world');
+console.log('жаль что не макОС')
